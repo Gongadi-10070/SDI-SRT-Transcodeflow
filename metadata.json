@@ -1,0 +1,6 @@
+{
+  "name": "SRT TranscodeFlow MCR",
+  "description": "Professional SRT caller/listener broadcast transcoder, multi-egress HLS/SRT/RTMP engine, SCTE-35 ad passthrough, L-Band graphic insertion, receiver tracking, and real-time QoE telemetry dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
